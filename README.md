@@ -1,4 +1,4 @@
-add proper formatting in this readme.md file
+
 # mlflow-implementation
 
 # Apple Stock Price Forecasting
